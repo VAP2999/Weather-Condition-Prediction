@@ -15,7 +15,7 @@ This project uses two CSV datasets:
 
 ## Steps in the Project
 
-1. **Data Cleaning and Preprocessing**: 
+1. **Data Cleaning and Preprocessing**:
    - Merging datasets and handling missing values.
    - Removing irrelevant columns and handling outliers.
    - Data transformations like converting columns to appropriate data types.
